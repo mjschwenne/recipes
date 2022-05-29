@@ -1,9 +1,8 @@
 ---
 title: Thai Curry Soup
 ---
-
 ## Facts
-*Source: Emma; Total Time: 30 minutes*
+*Total Time: 30 minutes; Source: Emma*
 ## Ingredients
 - 0.25 cups basil                       
 - 2 tbsp brown suger                 

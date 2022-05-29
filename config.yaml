@@ -14,20 +14,20 @@ imaging:
   quality: 99
 
 params:
-  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
-  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
+  description: A collection of recipes used by myself, my housemates and my family!
+  homeMetaContent: A collection of recipes used by myself, my housemates and my family!
+  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). 
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: someUser
   katex: true
   hideHeaderLinks: false
   search: true
-  showThemeSwitcher: true
+  showThemeSwitcher: false
   defaultDarkTheme: false
   moveFooterToHeader: false
   # navTitleText: Cupper Theme
-  logoAlt: An alternative text description of the logo
+  logoAlt: A pot simmering on a stove.
   customCss:
     - css/custom_01.css
     - css/custom_02.css
@@ -43,18 +43,12 @@ menu:
     - name: Recipes
       url: /recipes/
       weight: 2
-    - name: Blog
-      url: /post/
-      weight: 3
     - name: Tags
       url: /tags/
-      weight: 4
-    - name: About
-      url: /about/
-      weight: 5
+      weight: 3
     - name: RSS
       url: /index.xml
-      weight: 6
+      weight: 4
 
 markup:
   defaultMarkdownHandler: goldmark
