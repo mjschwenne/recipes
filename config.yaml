@@ -1,7 +1,7 @@
 baseURL: https://mjschwenne.github.io/recipes
 languageCode: en-us
 defaultContentLanguage: en
-title: Cupper
+title: Sandpiper Cookbook
 theme: cupper-hugo-theme
 
 taxonomies:
