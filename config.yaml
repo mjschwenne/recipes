@@ -13,10 +13,6 @@ permalinks:
 imaging:
   quality: 99
 
-
-ignoreFiles:
-  /content/recipes/slowcooker/_index.md
-
 params:
   description: A collection of recipes used by myself, my housemates and my family!
   homeMetaContent: A collection of recipes used by myself, my housemates and my family!
