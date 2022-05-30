@@ -5,13 +5,13 @@ title: Baked French Toast
 *Source: Matt; Total Time: 4 hours*
 ## Ingredients
 - some Butter                      
-- 1 loaf Italian bread               
-, sliced- 1 cup brown sugar                 
+- 1 loaf Italian bread, sliced
+- 1 cup brown sugar                 
 - 1 tsp cinnamon                    
 - 6 eggs                        
 - 1.5 cups milk                        
 - some nuts                        
-pie filling (your choice)- 1 can    
+- 1 can pie filling (your choice)
 - 1 tsp vanilla                     
 ## Cookware
 - 13x9 baking dish
